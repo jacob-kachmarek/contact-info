@@ -5,15 +5,22 @@ body {
 }
 header {
     background-color: rgb(169, 140, 23);
+    height: 55px;
+    
 }
 
 li {
     display: inline;
-    margin: 15px;
+    margin: 20px;
 }
 
 nav {
     text-align: right;
+    font-size: 20px;
+    background-color: azure;
+    height: 45px;
+    padding-top: 1px;
+    
 }
 
 img {
